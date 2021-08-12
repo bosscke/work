@@ -5,3 +5,7 @@ h1, h2 {
 p {
     color:blue;
 }
+
+.border {
+    border: 1px, solid, black;
+}
